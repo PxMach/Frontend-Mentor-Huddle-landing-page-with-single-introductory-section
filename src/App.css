@@ -1,0 +1,13 @@
+@import "tailwindcss";
+:root {
+  --Violet: hsl(257, 40%, 49%);
+  --Soft_Magenta: hsl(300, 69%, 71%);
+}
+
+body {
+  background-image: url("src/assets/images/bg-mobile.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: var(--Violet);
+  min-height: 100vh;
+}
