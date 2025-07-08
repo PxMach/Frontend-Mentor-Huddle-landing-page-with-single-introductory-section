@@ -34,9 +34,9 @@ export default function Main() {
         </button>
       </div>
       <div className="mt-8 flex gap-3 min-[500px]:absolute min-[500px]:right-15 min-[500px]:bottom-12">
-        <i className="devicon-facebook-plain text-white p-3 border-[1px] rounded-[50%] hover:text-[violet]"></i>
-        <i className="devicon-twitter-original text-white p-3 border-[1px] rounded-[50%] hover:text-[violet]"></i>
-        <i className="fa-brands fa-instagram text-white p-3 border-[1px] rounded-[50%] hover:text-[violet]"></i>
+        <i className="devicon-facebook-plain text-white p-3 border-[1px] rounded-[50%] hover:text-[violet] hover:cursor-pointer"></i>
+        <i className="devicon-twitter-original text-white p-3 border-[1px] rounded-[50%] hover:text-[violet] hover:cursor-pointer"></i>
+        <i className="fa-brands fa-instagram text-white p-3 border-[1px] rounded-[50%] hover:text-[violet] hover:cursor-pointer"></i>
       </div>
     </main>
   );
