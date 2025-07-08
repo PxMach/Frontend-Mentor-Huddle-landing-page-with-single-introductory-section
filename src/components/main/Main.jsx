@@ -11,7 +11,7 @@ export default function Main() {
     >
       <img className="mb-8" src={mockups} alt="illustration mockups" />
       <div className="flex flex-col items-center min-[500px]:items-start min-[500px]:mt-12 ">
-        <h1 className="text-[25px] text-white text-center font-semibold mb-4 min-[500px]:text-[38px] min-[500px]:text-left">
+        <h1 className="text-[1.55rem] text-white text-center font-semibold mb-4 min-[500px]:text-[2.3rem] min-[500px]:text-left">
           Build The Community Your Fans Will Love
         </h1>
         <p className="text-gray-300 text-center min-[500px]:text-left">
