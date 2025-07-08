@@ -11,3 +11,8 @@ body {
   background-color: var(--Violet);
   min-height: 100vh;
 }
+@media (min-width: 500px) {
+  body {
+    background-image: url("src/assets/images/bg-desktop.svg");
+  }
+}
